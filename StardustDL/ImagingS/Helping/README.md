@@ -1,4 +1,4 @@
-# ImagingS 使用说明
+# [ImagingS](https://github.com/StardustDL/ImagingS) 使用说明
 
 ## 一、运行环境
 
